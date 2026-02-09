@@ -1,0 +1,22 @@
+{
+  "function_app_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "func-alpaca-fvjh7q"
+  },
+  "function_app_url": {
+    "sensitive": false,
+    "type": "string",
+    "value": "https://func-alpaca-fvjh7q.azurewebsites.net"
+  },
+  "key_vault_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "kv-alpaca-fvjh7q"
+  },
+  "resource_group_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "rg-alpaca-fvjh7q"
+  }
+}
